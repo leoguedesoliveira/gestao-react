@@ -18,9 +18,9 @@ function NavBarMenu() {
                     <li><a draggable="false" className="opcoesMenu" href="#" id="opcaoGestaoNormas">Gestão de Normas</a></li>
                 </div>
                 <div className="opcoesAcessoRapido">
-                    <a className="btnAcessoRapido"><span>O</span></a>
-                    <a className="btnAcessoRapido"><span>O</span></a>
-                    <a className="btnAcessoRapido"><span>O</span></a>
+                    <a id="btnCalendario" className="btnAcessoRapido"><img src="src\components\navBarMenu\imgs\calendar-1-svgrepo-com.svg" alt="" /></a>
+                    <a id="btnNotificacao" className="btnAcessoRapido"><img src="src\components\navBarMenu\imgs\document-sketch-svgrepo-com.svg" alt="" /></a>
+                    <a id="btnMenu" className="btnAcessoRapido"><img src="src\components\navBarMenu\imgs\element-3-svgrepo-com.svg" alt="" /></a>
                     <a className="btnAcessoRapido"><span>O</span></a>
                 </div>
             </div>
